@@ -12,7 +12,7 @@ public class myWorldController {
 	
 	@GetMapping("/next")
 	public String Home() {
-		return(" welcome to my world");
+		return(" welcome to my world 123");
 	}
 
 }
